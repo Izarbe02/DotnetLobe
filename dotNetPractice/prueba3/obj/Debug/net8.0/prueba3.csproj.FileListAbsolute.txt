@@ -1,0 +1,14 @@
+C:\Users\izarbe.tolosana\Desktop\Izarbe\dotnet\dotNetPractice\prueba3\bin\Debug\net8.0\prueba3.exe
+C:\Users\izarbe.tolosana\Desktop\Izarbe\dotnet\dotNetPractice\prueba3\bin\Debug\net8.0\prueba3.deps.json
+C:\Users\izarbe.tolosana\Desktop\Izarbe\dotnet\dotNetPractice\prueba3\bin\Debug\net8.0\prueba3.runtimeconfig.json
+C:\Users\izarbe.tolosana\Desktop\Izarbe\dotnet\dotNetPractice\prueba3\bin\Debug\net8.0\prueba3.dll
+C:\Users\izarbe.tolosana\Desktop\Izarbe\dotnet\dotNetPractice\prueba3\bin\Debug\net8.0\prueba3.pdb
+C:\Users\izarbe.tolosana\Desktop\Izarbe\dotnet\dotNetPractice\prueba3\obj\Debug\net8.0\prueba3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\izarbe.tolosana\Desktop\Izarbe\dotnet\dotNetPractice\prueba3\obj\Debug\net8.0\prueba3.AssemblyInfoInputs.cache
+C:\Users\izarbe.tolosana\Desktop\Izarbe\dotnet\dotNetPractice\prueba3\obj\Debug\net8.0\prueba3.AssemblyInfo.cs
+C:\Users\izarbe.tolosana\Desktop\Izarbe\dotnet\dotNetPractice\prueba3\obj\Debug\net8.0\prueba3.csproj.CoreCompileInputs.cache
+C:\Users\izarbe.tolosana\Desktop\Izarbe\dotnet\dotNetPractice\prueba3\obj\Debug\net8.0\prueba3.dll
+C:\Users\izarbe.tolosana\Desktop\Izarbe\dotnet\dotNetPractice\prueba3\obj\Debug\net8.0\refint\prueba3.dll
+C:\Users\izarbe.tolosana\Desktop\Izarbe\dotnet\dotNetPractice\prueba3\obj\Debug\net8.0\prueba3.pdb
+C:\Users\izarbe.tolosana\Desktop\Izarbe\dotnet\dotNetPractice\prueba3\obj\Debug\net8.0\prueba3.genruntimeconfig.cache
+C:\Users\izarbe.tolosana\Desktop\Izarbe\dotnet\dotNetPractice\prueba3\obj\Debug\net8.0\ref\prueba3.dll

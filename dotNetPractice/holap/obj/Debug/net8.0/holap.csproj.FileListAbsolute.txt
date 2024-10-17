@@ -1,0 +1,14 @@
+c:\Users\izarbe.tolosana\dotNetPractice\holap\bin\Debug\net8.0\holap.exe
+c:\Users\izarbe.tolosana\dotNetPractice\holap\bin\Debug\net8.0\holap.deps.json
+c:\Users\izarbe.tolosana\dotNetPractice\holap\bin\Debug\net8.0\holap.runtimeconfig.json
+c:\Users\izarbe.tolosana\dotNetPractice\holap\bin\Debug\net8.0\holap.dll
+c:\Users\izarbe.tolosana\dotNetPractice\holap\bin\Debug\net8.0\holap.pdb
+c:\Users\izarbe.tolosana\dotNetPractice\holap\obj\Debug\net8.0\holap.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\izarbe.tolosana\dotNetPractice\holap\obj\Debug\net8.0\holap.AssemblyInfoInputs.cache
+c:\Users\izarbe.tolosana\dotNetPractice\holap\obj\Debug\net8.0\holap.AssemblyInfo.cs
+c:\Users\izarbe.tolosana\dotNetPractice\holap\obj\Debug\net8.0\holap.csproj.CoreCompileInputs.cache
+c:\Users\izarbe.tolosana\dotNetPractice\holap\obj\Debug\net8.0\holap.dll
+c:\Users\izarbe.tolosana\dotNetPractice\holap\obj\Debug\net8.0\refint\holap.dll
+c:\Users\izarbe.tolosana\dotNetPractice\holap\obj\Debug\net8.0\holap.pdb
+c:\Users\izarbe.tolosana\dotNetPractice\holap\obj\Debug\net8.0\holap.genruntimeconfig.cache
+c:\Users\izarbe.tolosana\dotNetPractice\holap\obj\Debug\net8.0\ref\holap.dll
