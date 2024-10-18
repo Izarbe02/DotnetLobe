@@ -12,3 +12,4 @@ C:\Users\izarbe.tolosana\Desktop\Izarbe\dotnet\ConsoleApp1\obj\Debug\net8.0\refi
 C:\Users\izarbe.tolosana\Desktop\Izarbe\dotnet\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.pdb
 C:\Users\izarbe.tolosana\Desktop\Izarbe\dotnet\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.genruntimeconfig.cache
 C:\Users\izarbe.tolosana\Desktop\Izarbe\dotnet\ConsoleApp1\obj\Debug\net8.0\ref\ConsoleApp1.dll
+c:\Users\izarbe.tolosana\Desktop\Izarbe\dotnet\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.sourcelink.json

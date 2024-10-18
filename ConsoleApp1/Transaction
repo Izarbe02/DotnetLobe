@@ -1,4 +1,4 @@
-namespace Classes;
+namespace ejercioBAnco;
 
 public class Transaction
 {

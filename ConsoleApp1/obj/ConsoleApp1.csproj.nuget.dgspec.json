@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\izarbe.tolosana\\Desktop\\Izarbe\\dotnet\\ConsoleApp1\\ConsoleApp1.csproj": {}
+    "c:\\Users\\izarbe.tolosana\\Desktop\\Izarbe\\dotnet\\ConsoleApp1\\ConsoleApp1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\izarbe.tolosana\\Desktop\\Izarbe\\dotnet\\ConsoleApp1\\ConsoleApp1.csproj": {
+    "c:\\Users\\izarbe.tolosana\\Desktop\\Izarbe\\dotnet\\ConsoleApp1\\ConsoleApp1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\izarbe.tolosana\\Desktop\\Izarbe\\dotnet\\ConsoleApp1\\ConsoleApp1.csproj",
+        "projectUniqueName": "c:\\Users\\izarbe.tolosana\\Desktop\\Izarbe\\dotnet\\ConsoleApp1\\ConsoleApp1.csproj",
         "projectName": "ConsoleApp1",
-        "projectPath": "C:\\Users\\izarbe.tolosana\\Desktop\\Izarbe\\dotnet\\ConsoleApp1\\ConsoleApp1.csproj",
+        "projectPath": "c:\\Users\\izarbe.tolosana\\Desktop\\Izarbe\\dotnet\\ConsoleApp1\\ConsoleApp1.csproj",
         "packagesPath": "C:\\Users\\izarbe.tolosana\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\izarbe.tolosana\\Desktop\\Izarbe\\dotnet\\ConsoleApp1\\obj\\",
+        "outputPath": "c:\\Users\\izarbe.tolosana\\Desktop\\Izarbe\\dotnet\\ConsoleApp1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\izarbe.tolosana\\AppData\\Roaming\\NuGet\\NuGet.Config"

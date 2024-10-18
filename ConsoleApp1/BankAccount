@@ -1,4 +1,5 @@
-namespace Classes;
+namespace ejercioBAnco;
+using ejercioBAnco;
 
 public class BankAccount
 {
