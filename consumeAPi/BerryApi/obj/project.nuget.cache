@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "bNykyi6kLIY=",
+  "success": true,
+  "projectFilePath": "c:\\Users\\izarbe.tolosana\\Desktop\\Izarbe\\dotnet\\consumeAPi\\BerryApi\\BerryApi.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\izarbe.tolosana\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
