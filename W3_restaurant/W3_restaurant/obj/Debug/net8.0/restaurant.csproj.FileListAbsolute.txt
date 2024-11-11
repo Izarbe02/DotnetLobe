@@ -1,0 +1,14 @@
+c:\Users\izarbe.tolosana\Downloads\W3_restaurant\W3_restaurant\bin\Debug\net8.0\restaurant.exe
+c:\Users\izarbe.tolosana\Downloads\W3_restaurant\W3_restaurant\bin\Debug\net8.0\restaurant.deps.json
+c:\Users\izarbe.tolosana\Downloads\W3_restaurant\W3_restaurant\bin\Debug\net8.0\restaurant.runtimeconfig.json
+c:\Users\izarbe.tolosana\Downloads\W3_restaurant\W3_restaurant\bin\Debug\net8.0\restaurant.dll
+c:\Users\izarbe.tolosana\Downloads\W3_restaurant\W3_restaurant\bin\Debug\net8.0\restaurant.pdb
+c:\Users\izarbe.tolosana\Downloads\W3_restaurant\W3_restaurant\obj\Debug\net8.0\restaurant.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\izarbe.tolosana\Downloads\W3_restaurant\W3_restaurant\obj\Debug\net8.0\restaurant.AssemblyInfoInputs.cache
+c:\Users\izarbe.tolosana\Downloads\W3_restaurant\W3_restaurant\obj\Debug\net8.0\restaurant.AssemblyInfo.cs
+c:\Users\izarbe.tolosana\Downloads\W3_restaurant\W3_restaurant\obj\Debug\net8.0\restaurant.csproj.CoreCompileInputs.cache
+c:\Users\izarbe.tolosana\Downloads\W3_restaurant\W3_restaurant\obj\Debug\net8.0\restaurant.dll
+c:\Users\izarbe.tolosana\Downloads\W3_restaurant\W3_restaurant\obj\Debug\net8.0\refint\restaurant.dll
+c:\Users\izarbe.tolosana\Downloads\W3_restaurant\W3_restaurant\obj\Debug\net8.0\restaurant.pdb
+c:\Users\izarbe.tolosana\Downloads\W3_restaurant\W3_restaurant\obj\Debug\net8.0\restaurant.genruntimeconfig.cache
+c:\Users\izarbe.tolosana\Downloads\W3_restaurant\W3_restaurant\obj\Debug\net8.0\ref\restaurant.dll

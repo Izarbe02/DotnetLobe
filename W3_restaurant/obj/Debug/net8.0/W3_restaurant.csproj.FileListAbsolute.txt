@@ -1,0 +1,7 @@
+C:\Users\izarbe.tolosana\Downloads\W3_restaurant\obj\Debug\net8.0\W3_restaurant.csproj.AssemblyReference.cache
+C:\Users\izarbe.tolosana\Downloads\W3_restaurant\obj\Debug\net8.0\W3_restaurant.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\izarbe.tolosana\Downloads\W3_restaurant\obj\Debug\net8.0\W3_restaurant.AssemblyInfoInputs.cache
+C:\Users\izarbe.tolosana\Downloads\W3_restaurant\obj\Debug\net8.0\W3_restaurant.AssemblyInfo.cs
+C:\Users\izarbe.tolosana\Downloads\W3_restaurant\obj\Debug\net8.0\W3_restaurant.csproj.CoreCompileInputs.cache
+C:\Users\izarbe.tolosana\Downloads\W3_restaurant\obj\Debug\net8.0\W3_restaurant.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\izarbe.tolosana\Downloads\W3_restaurant\obj\Debug\net8.0\W3_restaurant.MvcApplicationPartsAssemblyInfo.cache
