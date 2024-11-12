@@ -23,5 +23,14 @@ app.UseHttpsRedirection();
 app.UseAuthorization();
 
 app.MapControllers();
+
+
+//Lamada
+
 PeliculaController.InicializarDatos();
+
+
+
 app.Run();
+
+//http://localhost:5165/swagger/index.html
